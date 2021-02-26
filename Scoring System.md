@@ -1,14 +1,15 @@
-Scores for this challenge are calculated with a formula holding to several factors.
+# SCP - Containment Breach: No Drop Challenge - Scoring System
+
+### Scores for this challenge are calculated with a formula holding to several factors.
 
 In order to calculate your score, you’ll need to understand the following made up abbreviations:
-
-(CTR): Points awarded for finishing the Regular challenge.
-(CTH): Points awarded for finishing the Hard challenge.
-(POF): Points awarded for finishing the game.
-(PPA): Points awarded per unlocked achievement.
-(PPM): Penalty points given for each minute the game is played. (See “Playtime Setup” for more info)
-(INV): Indicates an invalid setup for this challenge, points will not be awarded in this case.
-* An example of an invalid setup is: Playing on Keter difficulty while doing the Regular challenge type.
+* (CTR): Points awarded for finishing the Regular challenge.
+* (CTH): Points awarded for finishing the Hard challenge.
+* (POF): Points awarded for finishing the game.
+* (PPA): Points awarded per unlocked achievement.
+* (PPM): Penalty points given for each minute the game is played. (See “Playtime Setup” for more info)
+* (INV): Indicates an invalid setup for this challenge, points will not be awarded in this case.
+\*An example of an invalid setup is: Playing on Keter difficulty while doing the Regular challenge type.
 
 
 Playtime Setup:
