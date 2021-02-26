@@ -1,4 +1,5 @@
-Challenge Rules: (Regular)
+#SCP - Containment Breach: No Drop Challenge - Rules
+###Challenge Rules: (Regular)
 
 01. The playthrough has to be completed within 1.5 hours/ 90 minutes, starting as soon as the alarm is audible after the starting event.
 02.	The playthrough must be played on game version 1.3.11 or newer.
